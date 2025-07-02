@@ -47,4 +47,3 @@ When I'm not at my keyboard, I'm passionate about building communities on and of
 *   **Community Leadership:** I serve as the Director of Motorsports for **[Drive Deviant](https://drivedeviant.com/)**, a 501(c)(3) dedicated to creating a safe and welcoming environment for underserved car enthusiasts.
 *   **Live Events:** I've organized and run dozens of community-focused live music and art events.
 *   **Competitive Driving:** I'm a nationally competitive autocross driver with multiple regional titles in SCCA Solo.
-```
